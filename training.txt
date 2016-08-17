@@ -1,0 +1,46 @@
+Start with installation.
+Get People names to send references later
+____________________________
+
+Introduction: 15 mins
+________________________________
+1. Version Control: Introduction
+2. Why we need Version control
+3. Examples : VSS, Subversion, 
+4. Git: Introduction and a history
+5. Repository: Concept
+6. Branch: Why we need branch
+
+
+Practical / Commands
+_________________________________
+
+Commands:
+1. Setup: Git Bash and Tortoise git.
+
+Setup a Repo:
+
+1. From existing repo: git clone
+2. New Repo : git init
+
+Recording history:
+1. Stage: git add 
+2. Commit: git commit
+
+View History:
+1. git log 
+
+Publishing Changes
+1. Push: Push
+
+Get changes:
+1. Pull: Git pull
+
+
+Working with others:
+1. Conflict Management: conflict resolution. 
+
+Working with branches: (If time permits)
+1. Creating a branch: git checkout -b 
+2. Switching from one branch to another: git checkout
+3. Merging two branches
